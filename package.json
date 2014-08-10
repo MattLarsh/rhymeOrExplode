@@ -1,0 +1,16 @@
+{
+  "name": "rhymeOrExplode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Larsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.2",
+    "express3-handlebars": "^0.5.2",
+    "rhyming": "0.0.0"
+  }
+}
